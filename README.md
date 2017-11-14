@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# A Thing Not Forgotten: The New York Fires of 1741
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
