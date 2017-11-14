@@ -10,8 +10,7 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+On March 18th, 1741 a fire broke out in the southern end of New York City burning Fort George and Governor George Clarke’s home to the ground. The cause of the blaze was deemed an accident. However, on March 25th, a fresh series of fires tore through the heart of New York City sparking suspicion over the nature of the events. In the next seven weeks isolated fires appeared throughout the city, often at the expense of wealthy New York citizens, and suspicion transformed into fear. New York turned upon itself in a panicked attempt to expunge the arsonists from within, and in the process revealed a city of deep-seated and centuries old resentments. Thirty-four men and women, of both European and African descent, were sentenced to death for crimes against the colony, and seventy-two additional suspects were deported from New York. A staggering total of two-hundred-and-eight colonists were brought to trial as suspects of a nefarious plot to raze the city to the ground. The indiscriminate nature of the hammer of justice, which spared neither woman nor free white, indicates a motivation beyond that of gender and race in the “New York Conspiracy of 1741.” 
 
 ## Manubot
 
