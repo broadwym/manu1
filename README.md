@@ -4,7 +4,7 @@
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://broadwym.github.io/manu1/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://broadwym.github.io/manu1/manuscript.pdf)
-[![Build Status](https://travis-ci.org/broadwym/broadwym.svg?branch=master)](https://travis-ci.org/broadwym/manu1)
+[![Build Status](https://travis-ci.org/broadwym/manu1.svg?branch=master)](https://travis-ci.org/broadwym/manu1)
 
 ## Manuscript description
 
